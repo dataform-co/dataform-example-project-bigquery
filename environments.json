@@ -1,0 +1,11 @@
+{
+    "environments": [
+        {
+            "name": "production",
+            "gitReference": {
+                "branch": "master"
+            },
+            "configOverride": {}
+        }
+    ]
+}
