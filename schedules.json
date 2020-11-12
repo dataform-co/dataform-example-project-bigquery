@@ -17,9 +17,9 @@
     }]
   }],
   "notificationChannels": [{
-    "name": "email dan",
+    "name": "email jo",
     "email": {
-      "to": ["dan@dataform.co"]
+      "to": ["jo_bloggs@acme.co"]
     }
   }]
 }
