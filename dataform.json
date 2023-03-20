@@ -2,6 +2,6 @@
     "defaultSchema": "dataform",
     "assertionSchema": "dataform_assertions",
     "warehouse": "bigquery",
-    "defaultDatabase": "dataform-demos",
+    "defaultDatabase": "brendanlooker",
     "defaultLocation": "us"
 }
